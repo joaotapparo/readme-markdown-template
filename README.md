@@ -33,7 +33,7 @@ Currently available locales are:
 - Brazilian Portuguese (pt_br)
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/JohnnyHall/readme-markdown-template)
+1. [Fork the repository](https://github.com/JohnnyHall/readme-markdown-template/fork)
 2. Clone your fork: `git clone https://github.com/JohnnyHall/readme-markdown-template.git`
 3. Stage changes `git add .`
 4. Commit your changes: `cz` OR use `git commit`
