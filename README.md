@@ -8,8 +8,8 @@
 ## 🎯 Objective
 
 ## 📜 Requirements
-1. [Requiremednt]
-2. [Requiremednt]
+1. [Requirements]
+2. [Requirements]
 
 ## ⚙️ Installation
 
