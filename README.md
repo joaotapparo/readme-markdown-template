@@ -8,8 +8,7 @@
 ## 🎯 Objective
 
 ## 📜 Requirements
-1. [Requiremednt]
-2. [Requiremednt]
+1. Windows.h header or equivalent
 
 ## ⚙️ Installation
 
