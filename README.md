@@ -7,7 +7,7 @@
 
 ## 🎯 Objective
 
-## 📜 Requiremednts
+## 📜 Requirements
 1. [Requiremednt]
 2. [Requiremednt]
 
